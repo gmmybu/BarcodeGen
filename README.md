@@ -1,4 +1,6 @@
 # BarcodeGen
 barcode code128 generator
 
-copy from https://github.com/SourceCodeBackup/GenCode128, convert to c++
+It comes from https://github.com/SourceCodeBackup/GenCode128, but is converted to c++.
+
+It remains the same interface and coding style with little changes.
